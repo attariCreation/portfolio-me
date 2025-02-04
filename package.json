@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "motion": "^12.1.0"
+  },
+  "devDependencies": {
+    "react-router-dom": "^7.1.5"
+  }
+}
